@@ -234,7 +234,7 @@ def main():
             f.write("## E4 – Bombe testando as 60 ordens de rotores\n\n")
             for k, v in r4.items():
                 f.write(f"- **{k}**: {v}\n")
-    print(f"\nResultados em {SAIDA}/")
+    print("\nResultados em resultados/")
 
 
 if __name__ == "__main__":
