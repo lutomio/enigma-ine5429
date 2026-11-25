@@ -37,19 +37,19 @@ Letras cifradas: 1.000.000. Coincidências claro=cifrado: **0** (uma cifra ideal
 
 | n | paradas_media | paradas_max | menu_fraco | sucesso | tempo_medio_s |
 |---|---|---|---|---|---|
-| 8 | 38894.2 | 81286 | 5/5 | 0/5 | 1.19 |
-| 10 | 8334.6 | 18864 | 4/5 | 1/5 | 1.08 |
-| 12 | 1602 | 4359 | 1/5 | 4/5 | 1.38 |
-| 15 | 29.2 | 141 | 0/5 | 5/5 | 1.05 |
-| 20 | 10.6 | 49 | 0/5 | 5/5 | 0.76 |
-| 25 | 1 | 1 | 0/5 | 5/5 | 0.78 |
+| 8 | 38894.2 | 81286 | 5/5 | 0/5 | 0.59 |
+| 10 | 8334.6 | 18864 | 4/5 | 1/5 | 0.64 |
+| 12 | 1602 | 4359 | 1/5 | 4/5 | 1.08 |
+| 15 | 29.2 | 141 | 0/5 | 5/5 | 0.82 |
+| 20 | 10.6 | 49 | 0/5 | 5/5 | 0.8 |
+| 25 | 1 | 1 | 0/5 | 5/5 | 0.69 |
 
 ## E4 – Bombe testando as 60 ordens de rotores
 
 - **chave_real**: {'rotores': 'III II IV', 'refletor': 'B', 'aneis': 'AAA', 'posicoes': 'DIN', 'painel': 'CX BR WI MQ DU SL NA GK TE VY'}
 - **crib**: NHIASAESTRADAQU
 - **alinhamento**: 131
-- **tempo_s**: 40.9
+- **tempo_s**: 30.0
 - **paradas_total**: 13
 - **rotores_achados**: III II IV
 - **inicio_achado**: DIN
